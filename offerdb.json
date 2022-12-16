@@ -1,0 +1,9 @@
+[
+{"product":"Apples",  "discount": 0.1, "condition": [], "applies": -1, "active":  true,
+"message":  "Apples 10% off"},
+{"product":"Bread",  "discount": 0.5, "condition": [
+  {
+    "product": "Soup",
+    "qty": 2
+  }], "applies": -1, "active":  true, "message":  "2 Soups for 50% off on 1 Bread."}
+]
